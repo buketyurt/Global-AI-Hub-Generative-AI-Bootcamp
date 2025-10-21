@@ -1,7 +1,7 @@
-# 🧠 Mental Health Chatbot (RAG-Based)  
+#  Mental Health Chatbot (RAG-Based)  
 **Global AI Hub – Generative AI Bootcamp Project**  
 Project Owner: **Buket Yurt**  
-Hugging Face Space: [🌐 View Project](https://huggingface.co/spaces/buketyurt/global_ai_hub_generative_ai-bootcamp)
+Hugging Face Space: [ View Project](https://huggingface.co/spaces/buketyurt/global_ai_hub_generative_ai-bootcamp)
 
 ---
 
@@ -113,15 +113,15 @@ Instead of relying solely on a large language model, the system **retrieves rele
 
 ---
 
-### 🔄 Workflow Summary  
+###  Workflow Summary  
 
 ```text
 User Question → Embedding → ChromaDB Retrieval → Gemini (LLM) → Answer
 ```
-## 🌐 5 – Web Interface & Product Guide  
+##  5 – Web Interface & Product Guide  
 
 You can directly access and test the project via the deployed interface below:  
-🔗 **[View Live Demo on Hugging Face](https://huggingface.co/spaces/buketyurt/global_ai_hub_generative_ai-bootcamp)**  
+ **[View Live Demo on Hugging Face](https://huggingface.co/spaces/buketyurt/global_ai_hub_generative_ai-bootcamp)**  
 
 ---
 
