@@ -125,20 +125,20 @@ You can directly access and test the project via the deployed interface below:
 
 ---
 
-### 🧠 Interface Overview  
+### Interface Overview  
 
 The **Mental Health FAQ Chatbot** is an interactive web app built with **Gradio**, designed to help users ask and receive informative, evidence-based responses about mental health topics.  
 It operates entirely on the browser and connects to the backend RAG pipeline in real time.
 
 Key interface features:
-- 💬 **Chat Window:** Users can type or select mental health questions.  
-- 🧩 **Memory Context:** The chatbot remembers your session history to give more context-aware responses.  
-- 📄 **Suggested Prompts:** Common starter questions like *“What does it mean to have a mental illness?”* or *“How can I manage anxiety?”* appear on the main screen.  
-- ⚠️ **Disclaimer:** A reminder states that the chatbot is for informational purposes only and not a replacement for professional mental health advice.  
+-  **Chat Window:** Users can type or select mental health questions.  
+-  **Memory Context:** The chatbot remembers your session history to give more context-aware responses.  
+-  **Suggested Prompts:** Common starter questions like *“What does it mean to have a mental illness?”* or *“How can I manage anxiety?”* appear on the main screen.  
+-  **Disclaimer:** A reminder states that the chatbot is for informational purposes only and not a replacement for professional mental health advice.  
 
 ---
 
-### 🖥️ User Workflow  
+###  User Workflow  
 
 1. Open the [Hugging Face Space](https://huggingface.co/spaces/buketyurt/global_ai_hub_generative_ai-bootcamp).  
 2. Select or type a question in the chat box.  
@@ -148,13 +148,13 @@ Key interface features:
 
 ---
 
-### 🧩 Example Interaction  
+###  Example Interaction  
 
 ![Chat Example](https://github.com/buketyurt/Global-AI-Hub-Generative-AI-Bootcamp/blob/main/images/Capture.PNG)
 
 ---
 
-### 🎬 Live Demo Preview  
+###  Live Demo Preview  
 
 Below is a short preview of the chatbot interaction flow:  
 
